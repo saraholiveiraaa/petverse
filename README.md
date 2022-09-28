@@ -1,2 +1,2 @@
 # petverse
-Trabalho de Projetos de Sítio II - Layout de uma página de um petshop 
+Trabalho de Projetos de Sítio II - Layout de uma página de um petshop usando Flexbox
