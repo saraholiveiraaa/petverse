@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sign-up .container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sign-up p {
+  color: white;
+}
+
+.sign-up p a {
+  text-decoration: none;
+  color: white;
+}
